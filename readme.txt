@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Merging Test for --no-ff.
 
 add a commit on master branch.
+feature add a commit for reset both local and origin.
